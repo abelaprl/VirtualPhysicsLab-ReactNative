@@ -1,4 +1,6 @@
 import { initializeApp } from 'firebase/app';
+import { getDatabase } from 'firebase/database';
+import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
   apiKey: "AIzaSyD7jiVEry9wX_5b4f8GFr96ke8-ZVex4Vw",
@@ -11,5 +13,9 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
+const database = getDatabase(app);
+const auth = getAuth(app);
 
-export default app;
+export { app, database, auth };
+
+export const formatEmail = (email) => email.replace('.', ',');

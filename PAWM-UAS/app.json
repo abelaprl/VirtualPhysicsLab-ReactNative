@@ -33,6 +33,12 @@
         "projectId": "5d86049b-13a7-4d6c-99d7-3af7d1d5017d"
       }
     },
-    "owner": "anaksti"
+    "owner": "anaksti",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5d86049b-13a7-4d6c-99d7-3af7d1d5017d"
+    }
   }
 }
