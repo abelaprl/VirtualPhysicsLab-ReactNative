@@ -1,6 +1,10 @@
 # Aplikasi Fisika
 
-Aplikasi untuk belajar fisika dengan berbagai fitur seperti latihan soal, perhitungan Ohm's Law, dan lainnya.
+Aplikasi ini dibuat untuk memenuhi tugas mata kuliah II3140 - Pengembangan Aplikasi Website dan Mobile, yang bertujuan untuk membantu pengguna belajar fisika melalui berbagai fitur, seperti latihan soal, perhitungan Ohm's Law, dan lainnya.
+
+## Kolaborator
+1. Abel Apriliani 18222008  
+2. Olivia Christy Lismanto 18222036
 
 ## Fitur
 
@@ -91,7 +95,7 @@ npx react-native run-ios
 
 Untuk mengunduh file APK aplikasi, ikuti langkah-langkah berikut:
 
-1. Kunjungi link unduhan APK.
+1. Kunjungi link unduhan APK berikut: [Download APK](https://expo.dev/accounts/anaksti/projects/pawm-uas/builds/0a4045be-a000-42aa-9505-8fd3b8f7b8fc).
 2. Klik tombol untuk mulai mengunduh file .apk.
 3. Setelah selesai mengunduh, buka file .apk untuk menginstal aplikasi di perangkat Android Anda.
 4. Jika perangkat Anda tidak dapat menginstal file dari sumber yang tidak dikenal, pastikan Anda mengaktifkan opsi "Sumber tidak dikenal" di pengaturan perangkat Anda.
