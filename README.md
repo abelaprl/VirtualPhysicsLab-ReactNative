@@ -1,4 +1,4 @@
-# Aplikasi Fisika
+# Aplikasi Laboratorium Fisika Dasar
 
 Aplikasi ini dibuat untuk memenuhi tugas mata kuliah II3140 - Pengembangan Aplikasi Website dan Mobile, yang bertujuan untuk membantu pengguna belajar fisika melalui berbagai fitur, seperti latihan soal, perhitungan Ohm's Law, dan lainnya.
 
@@ -55,7 +55,7 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-> Pastikan Anda sudah mengonfigurasi Android Studio atau Xcode untuk platform yang sesuai.
+> Pastikan Anda sudah mengonfigurasi Android Studio atau Xcode untuk platform yang sesuai. Jika ingin langsung menjalankan aplikasi pada perangkat yang membutuhkan file .apk untuk dijalankan, maka bisa langsung membaca instruksi bagian "Cara Mengunduh File .APK"
 
 ## Petunjuk Penggunaan Aplikasi
 
